@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mischegoss/Google-Books/static/css/main.7e54f9a1.chunk.css",
+    "main.js": "/mischegoss/Google-Books/static/js/main.e4983f78.chunk.js",
+    "main.js.map": "/mischegoss/Google-Books/static/js/main.e4983f78.chunk.js.map",
+    "runtime~main.js": "/mischegoss/Google-Books/static/js/runtime~main.3c421d54.js",
+    "runtime~main.js.map": "/mischegoss/Google-Books/static/js/runtime~main.3c421d54.js.map",
+    "static/js/2.13e6048a.chunk.js": "/mischegoss/Google-Books/static/js/2.13e6048a.chunk.js",
+    "static/js/2.13e6048a.chunk.js.map": "/mischegoss/Google-Books/static/js/2.13e6048a.chunk.js.map",
+    "index.html": "/mischegoss/Google-Books/index.html",
+    "precache-manifest.0c26902aa73753adfb098d6308ec879d.js": "/mischegoss/Google-Books/precache-manifest.0c26902aa73753adfb098d6308ec879d.js",
+    "service-worker.js": "/mischegoss/Google-Books/service-worker.js",
+    "static/css/main.7e54f9a1.chunk.css.map": "/mischegoss/Google-Books/static/css/main.7e54f9a1.chunk.css.map",
+    "static/media/App.css": "/mischegoss/Google-Books/static/media/arrow-drop-down.78c6f53b.svg"
+  }
+}
