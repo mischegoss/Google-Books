@@ -1,5 +1,6 @@
 import React from "react";
-import { Switch, Route } from "react-router-dom";
+import { Switch, Route} from "react-router-dom";
+//import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import * as BooksAPI from "./BooksAPI";
 import "./App.css";
 import BookCase from "./Components/BookCase";
@@ -40,6 +41,8 @@ class BooksApp extends React.Component {
 
   render() {
     return (
+
+      
       <div className="app">
         <Switch>
           <Route
@@ -56,7 +59,7 @@ class BooksApp extends React.Component {
 
           <Route
             exact
-            path="/search"
+            path="/Search"
             render={() => (
               <Search
                 selectedBooks={this.state.books}
@@ -65,7 +68,11 @@ class BooksApp extends React.Component {
             )}
           />
         </Switch>
+
+        
       </div>
+
+      
     );
   }
 }

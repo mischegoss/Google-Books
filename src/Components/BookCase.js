@@ -33,7 +33,7 @@ class BookCase extends Component {
       allShelves = this.shelfUpdater();
     return (
       <div className="app">
-        <MainTitle title="MyReads" />
+        <MainTitle title="My Books" />
         <div className="list-books-content">
           <div>
             {allShelves &&
