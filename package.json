@@ -1,6 +1,6 @@
 {
   "name": "book2",
-  "homepage": "https://github.com/mischegoss/Google-Books"
+  "homepage": "https://github.com/mischegoss/Google-Books",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
